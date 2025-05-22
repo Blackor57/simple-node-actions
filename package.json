@@ -5,10 +5,6 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "29.0.0"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+    "jest": "^29.0.0"
+  }
 }
